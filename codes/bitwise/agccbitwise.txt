@@ -1,0 +1,15 @@
+•	Try BS
+•	Can we use greedy, dp, maths, segment tree, fenwick, maybe bit set
+•	__builtin_clzll(x) leading zeros 
+•	__builtin_ctzll(x);       trailing zeros 
+•	__builtin_popcountll(x);
+•	ith_bit = (n >> i) & 1;
+•	a | b = (a ^ b) + (a & b)
+•	a ^ (a & b) = (a | b) ^ b
+•	b ^ (a & b) = (a | b) ^ a
+•	(a & b) ^ (a | b) = a ^ b
+•	a + b = (a ^ b) + (a & b) * 2
+•	a - b = (a ^ (a & b)) - ((a | b) ^ a)
+•	a - b = ((a | b) ^ b) - ((a | b) ^ a)
+•	a - b = (a ^ (a & b)) - (b ^ (a & b))
+•	a - b = ((a | b) ^ b) - (b ^ (a & b))

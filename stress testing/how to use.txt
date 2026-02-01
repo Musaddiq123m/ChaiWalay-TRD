@@ -1,0 +1,8 @@
+write optimized solution in code.cpp
+write brute force solution in slow.cpp
+write test case generator in generator.cpp
+
+open cmd, navigate to the directory containing these files, and run stress testing with the desired number of test cases
+
+example:
+stress <number_of_testcases>
